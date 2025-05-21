@@ -1,5 +1,7 @@
 # One Thing Changelog
 
+## [Updated Extension Credits] - 2025-05-21
+
 ## [✨ AI Enhancements] - 2025-02-21
 
 ## [Enhancement] - 2024-03-21
